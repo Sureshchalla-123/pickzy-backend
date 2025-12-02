@@ -1,0 +1,6 @@
+- created server.js file
+- run npm init -y to create json file
+- installed express nodemon bcryck dotenv jsonwebtoken mongoose cors coockie-parser packages
+- added .env and .gitignore files
+- added app.http file to test apis
+- create basic express server with /health-check route
